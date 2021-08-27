@@ -81,3 +81,4 @@ This section is a list books I've read less recently than this year, which I hav
 - [A Discussion of the Method](https://www.amazon.com/Discussion-Method-Conducting-Engineering-Technology/dp/0195155998)
 ## 2013
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
+- [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
