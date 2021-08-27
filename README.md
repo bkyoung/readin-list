@@ -82,3 +82,5 @@ This section is a list books I've read less recently than this year, which I hav
 ## 2013
 - [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 - [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+## 2008
+- [Pulling Strings With Puppet](https://www.amazon.com/Pulling-Strings-Puppet-Configuration-Management/dp/1590599780)
