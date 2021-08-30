@@ -65,6 +65,7 @@ Books I'm reading, have read this year, or am excited to read soon that I would 
 
 ## Miscellaneous
 Not books, but other documents I've read that were important to my thinking and worth reading.
+- [A Topology of Organisational Cultures (Dr. Westrum, 2004)](https://qualitysafety.bmj.com/content/13/suppl_2/ii22)
 - [NIST SP 800-207 - Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
 - [Google Whitepapers about their implementation of Zero Trust Architecture (BeyondCorp)](https://www.beyondcorp.com)
 
