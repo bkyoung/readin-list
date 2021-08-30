@@ -28,9 +28,9 @@ Books I'm reading, have read this year, or am excited to read soon that I would 
 
 ## Leadership
 ### Currently Reading
-- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ### Recently Read
+- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 - [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838)
 - [Multipliers](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172)
 
