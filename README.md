@@ -14,9 +14,9 @@ Books I'm reading, have read this year, or am excited to read soon that I would 
 ## Leadership
 | | |
 |---|---------|
-| Currently Reading |  |
-| Recently Read | [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838), [Multipliers](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172) |
-| In My Queue | [The Science of Dream Teams](https://www.amazon.com/Science-Dream-Teams-Optimization-Productivity/dp/1260473740) |
+| Currently Reading | [Switch: How to Change When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) |
+| Recently Read | [The Science of Dream Teams](https://www.amazon.com/Science-Dream-Teams-Optimization-Productivity/dp/1260473740), [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838), [Multipliers](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172) |
+| In My Queue |  |
 
 ## Interpersonal Skills
 | | |
@@ -38,10 +38,11 @@ Not books, but other documents I've read that were important to my thinking and 
 - [NIST SP 800-207 - Zero Trust Architecture](https://doi.org/10.6028/NIST.SP.800-207)
 - [Google Whitepapers about their implementation of Zero Trust Architecture (BeyondCorp)](https://www.beyondcorp.com)
 
-# Archive
-This section is a list books I've read less recently than this year, which I have found to be influential in my thinking since reading.
+# Recommended
+The books I've read which I have found to be influential in my thinking since reading.
 |   |   |
 |---|---|
+| 2021 | [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328), [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838)|
 | 2020 | [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) |
 | 2019 | [Good Strategy/Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-difference-matters/dp/1781256179) |
 | 2018 | [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X) |
