@@ -14,23 +14,23 @@ Books I'm reading, have read this year, or am excited to read soon that I would 
 ## Leadership
 | | |
 |---|---------|
-| Currently Reading | [Switch: How to Change When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) |
+| Currently Reading |  |
 | Recently Read | [The Science of Dream Teams](https://www.amazon.com/Science-Dream-Teams-Optimization-Productivity/dp/1260473740), [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), [What Got You Here Won't Get You There](https://www.amazon.com/What-Got-Here-Wont-There/dp/B00F6HD838), [Multipliers](https://www.amazon.com/Multipliers-Revised-Updated-Leaders-Everyone/dp/0062699172) |
 | In My Queue |  |
 
 ## Interpersonal Skills
 | | |
 |---|---------|
-| Currently Reading | [Read People Like a Book](https://www.amazon.com/Read-People-Like-Book-Charismatic/dp/B08QBB3MTG) |
-| Recently Read | [Influencer](https://www.amazon.com/Influencer-Science-Leading-Change-Second/dp/0071808868), [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328), [Crucial Accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments/dp/0071829318), [How to Listen With Intention](https://www.amazon.com/How-Listen-Intention-Communication-Relationships/dp/B08B7LNDQ8) |
+| Currently Reading |  |
+| Recently Read | [Influencer](https://www.amazon.com/Influencer-Science-Leading-Change-Second/dp/0071808868), [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328), [Crucial Accountability](https://www.amazon.com/Crucial-Accountability-Resolving-Expectations-Commitments/dp/0071829318), [How to Listen With Intention](https://www.amazon.com/How-Listen-Intention-Communication-Relationships/dp/B08B7LNDQ8), [Read People Like a Book](https://www.amazon.com/Read-People-Like-Book-Charismatic/dp/B08QBB3MTG) |
 | In My Queue | [How to Listen, Hear, and Validate](https://www.amazon.com/gp/product/B08WK8L2FD) |
 
 ## Engineering
 | | |
 |---|---------|
-| Currently Reading | [Go With the Domain](https://threedots.tech/go-with-the-domain/), [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them) |
-| Recently Read | [Solving the Bottom Turtle](https://thebottomturtle.io/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf) |
-| In My Queue | [Software Design for Flexibility](https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494), [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107), [The Innovation Delusion](https://www.amazon.com/Innovation-Delusion-Obsession-Disrupted-Matters/dp/0525575685) |
+| Currently Reading | [Advanced GraphQL with Apollo and React](https://8bit.press/book/advanced-graphql), [Composing Software](https://www.amazon.com/Composing-Software-Exploration-Programming-Composition/dp/1661212565) |
+| Recently Read | [Solving the Bottom Turtle](https://thebottomturtle.io/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf), [Go With the Domain](https://threedots.tech/go-with-the-domain/), [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them), [The Solidbook](https://solidbook.io) |
+| In My Queue | [Production Ready GraphQL](https://book.productionreadygraphql.com), [Software Design for Flexibility](https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494) |
 
 ## Miscellaneous
 Not books, but other documents I've read that were important to my thinking and worth reading.
