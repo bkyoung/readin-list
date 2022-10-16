@@ -28,8 +28,8 @@ Books I'm reading, have read this year, or am excited to read soon that I would 
 ## Engineering
 | | |
 |---|---------|
-| Currently Reading | [Composing Software](https://www.amazon.com/Composing-Software-Exploration-Programming-Composition/dp/1661212565) |
-| Recently Read | [Solving the Bottom Turtle](https://thebottomturtle.io/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf), [Go With the Domain](https://threedots.tech/go-with-the-domain/), [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them), [The Solidbook](https://solidbook.io), [Advanced GraphQL with Apollo and React](https://8bit.press/book/advanced-graphql), [Production Ready GraphQL](https://book.productionreadygraphql.com) |
+| Currently Reading | [Learning Functional Programming in Go](https://www.amazon.com/Learning-Functional-Programming-applications-programming/dp/1787281396) |
+| Recently Read | [The Rust Programming Language](https://doc.rust-lang.org/book/) [Composing Software](https://www.amazon.com/Composing-Software-Exploration-Programming-Composition/dp/1661212565) [Solving the Bottom Turtle](https://thebottomturtle.io/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf), [Go With the Domain](https://threedots.tech/go-with-the-domain/), [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them), [The Solidbook](https://solidbook.io), [Advanced GraphQL with Apollo and React](https://8bit.press/book/advanced-graphql), [Production Ready GraphQL](https://book.productionreadygraphql.com) |
 | In My Queue | [Software Design for Flexibility](https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494) |
 
 ## Miscellaneous
